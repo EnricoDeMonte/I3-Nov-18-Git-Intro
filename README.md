@@ -4,6 +4,4 @@ I am editing the file now.
 MM_edit
 
 GC: editing the file
-
-Trying to edit...
-AG: editing
+That's a test of my comprehension
